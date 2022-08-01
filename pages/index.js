@@ -4,8 +4,8 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div>
+    <Head>
       <h1>HELLO WORLD</h1>
-    </div>
+    </Head>
   )
 }
